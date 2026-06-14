@@ -1,7 +1,7 @@
 # git-zero
 ## git clone the repo 
-git clone https://github.com/HaythamMohamd/git-zero.git
-touch osama.rtf
+> git clone https://github.com/HaythamMohamd/git-zero.git
+> touch osama.rtf
 # git add
 >
 > git add .
