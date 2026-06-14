@@ -8,7 +8,7 @@
 
 # to reset from staging to working dir
 >
-> git reset head osama.rtf
+> git reset HAED osama.rtf
 
 # to commit
  >
